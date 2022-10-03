@@ -1,0 +1,6 @@
+
+const config = {
+    token: "bearer 21b32fc29af5757c31bd630b0a02b33d87b8a2af39305857be8d62b82c4f4ee2e8b80fe582f69ce27f4c403d469c8d60efb19be5f4526f36cbd431bea9b3cd2a7b09940424942685ce1ae9d7a233c5822afc3aa0a7d3fcddf241434650fa7e9ebe13d4b20d3d6dab83734a7cccff4f351befaa6638fab6d23706b9d020fc0895",
+}
+
+export default config;
